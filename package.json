@@ -1,14 +1,16 @@
 {
   "name": "@yurderi/vue-fa",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "The simplest way to use FontAwesome in vue.js",
   "main": "index.js",
   "repository": "git@github.com:yurderi/vue-fa.git",
   "license": "MIT",
   "private": false,
   "dependencies": {
-    "@fortawesome/fontawesome-free": "^5.9.0",
-    "@fortawesome/fontawesome-svg-core": "^1.2.19",
-    "@fortawesome/vue-fontawesome": "^0.1.6"
+    "@fortawesome/fontawesome": "^1.1.7",
+    "@fortawesome/fontawesome-free-brands": "^5.0.12",
+    "@fortawesome/fontawesome-free-regular": "^5.0.12",
+    "@fortawesome/fontawesome-free-solid": "^5.0.12",
+    "@fortawesome/vue-fontawesome": "^0.0.22"
   }
 }
